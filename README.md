@@ -2,7 +2,7 @@
 
 ### Purpose
 
-**Trauma and stroke are leading causes of brain injury, and we observe these in patients with motor vehicle accidents and sports-related injuries. These injuries can have various impacts on the motor functions, such as loss of speech, movement, or consciousness. **
+**Trauma and stroke are leading causes of brain injury, and we observe these in patients with motor vehicle accidents and sports-related injuries. These injuries can have various impacts on the motor functions, such as loss of speech, movement, or consciousness.**
 
 ##### I would like to explore some questions: 
 - Are certain patients more predisposed to dementia or dementia-like diagnosis? 
